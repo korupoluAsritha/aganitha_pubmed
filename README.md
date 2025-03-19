@@ -30,3 +30,7 @@
 ```powershell
 git clone https://github.com/korupoluAsritha/aganitha_pubmed
 cd aganitha_pubmed
+
+[![Python](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![PubMed](https://img.shields.io/badge/pubmed-API-orange)](https://pubmed.ncbi.nlm.nih.gov/)

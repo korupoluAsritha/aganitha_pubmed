@@ -1,0 +1,11 @@
+# Ignore virtual environments and unnecessary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+.idea/
+.vscode/
+*.log
